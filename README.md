@@ -8,7 +8,7 @@ To address this problem, we propose **SegFaultLoc**, a unified annotation fault 
 
 Extensive experiments on three benchmarks demonstrate that SegFaultLoc significantly outperforms existing baselines in fault ranking and early fault detection, and correcting detected faults further improves downstream segmentation performance.
 
-![Overview](pictures/Overview.pdf)
+![Overview](https://github.com/pengyiyangcs/SegFaultLoc/blob/main/Overview.pdf)
 *Overview of the SegFaultLoc framework, illustrating the complete pipeline from data processing to fault detection and manual correction.*
 
 
